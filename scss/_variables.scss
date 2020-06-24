@@ -1242,7 +1242,7 @@ $spinner-border-width-sm: .2em !default;
 
 // Close
 
-$close-icon:                        url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><path d='M11.854 4.146a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708-.708l7-7a.5.5 0 0 1 .708 0z'/><path d='M4.146 4.146a.5.5 0 0 0 0 .708l7 7a.5.5 0 0 0 .708-.708l-7-7a.5.5 0 0 0-.708 0z'/></svg>") !default;
+$close-icon:                        "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'><defs><clipPath id='closeIcon' clipPathUnits='objectBoundingBox'><path d='m0.982,0.018 a0.062,0.062,0,0,1,0,0.088 L0.107,0.982 A0.063,0.063,0,0,1,0.018,0.893 L0.893,0.018 a0.062,0.062,0,0,1,0.088,0'/><path d='m0.018,0.018 a0.062,0.062,0,0,0,0,0.088 L0.893,0.982 a0.063,0.063,0,0,0,0.088,-0.088 L0.107,0.018 a0.062,0.062,0,0,0,-0.088,0'/></clipPath></defs></svg>" !default;
 $close-width:                       2em !default;
 $close-height:                      $close-width !default;
 $close-font-size:                   null !default;
